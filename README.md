@@ -1,5 +1,7 @@
 # Node CSV App
 
+[English](README.en.md) | **中文**
+
 一个用于将联系人信息写入 CSV 文件的 Node.js 命令行应用程序。
 
 ## 功能
